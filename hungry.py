@@ -5,4 +5,6 @@ if hungry=="yes"
 	printf("eat burger")
 	printf("eat fries")
 else:
-	printf("do your homework");
+	thirsty=input("are you thirsty")
+	if thirsty == yes
+		printf("drink water")
