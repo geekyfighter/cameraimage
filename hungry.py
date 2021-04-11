@@ -7,4 +7,4 @@ if hungry=="yes"
 else:
 	thirsty=input("are you thirsty")
 	if thirsty == yes
-		printf("drink water")
+		printf("my innocent changes made")
