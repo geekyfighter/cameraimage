@@ -7,4 +7,5 @@ if hungry=="yes"
 else:
 	thirsty=input("are you thirsty")
 	if thirsty == yes
-		printf("my innocent changes made")
+		printf("Testing tthe merge conflict for the time being")
+
